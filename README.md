@@ -26,8 +26,14 @@ Simply paste the link to one of the playlists into [any video player](https://gi
 
 The main playlist containing all channels available in the repository can be found at:
 
+## All playlists
 ```
-https://tv.ayon1xw.me/all.m3u
+http://tv.ayon1xw.me/all.m3u
+```
+## Kosvo,Germany,Albania,Turky
+
+```
+http://tv.ayon1xw.me/familytv.m3u
 ```
 
 Links to other playlists can be found in the [PLAYLISTS.md](PLAYLISTS.md) file.
